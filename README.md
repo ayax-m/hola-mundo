@@ -1,5 +1,5 @@
-# hola-mundo
-Repositorio de prueba
+# Hola Mundo
+Repositorio.
 
 Autor: A. Morales
 Fecha: 22 de septiembre.
